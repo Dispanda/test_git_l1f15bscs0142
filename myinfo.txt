@@ -1,3 +1,8 @@
-"Name :  Zain" 
+<<Head
+Name :  Zain Arshad
+====
+
+"Name :  Zain"
+>>>> 3e47fec6fb556d12a2b369b3c4e9619384d74ce 
 "Email :zeeash586452gmail.com"
 University of central punjab
